@@ -1,0 +1,5 @@
+= ciao babbo sei su readme (è il nome del file) +
+
+*e adesso non mi ricordo che font era questo* 
+
+_e nemmeno questo_
